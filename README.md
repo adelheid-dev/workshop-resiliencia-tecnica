@@ -49,4 +49,4 @@ A execução do projeto e a refatoração das posturas técnicas e de código s�
 ---
 
 ## 🔗 Links do Projeto
-* **Quadro Trello do Projeto:** [Aceder ao Trello do Workshop] (https://trello.com/invite/b/6ab591016ab989f2b36140d6/ATTIeb66809feea1a43046d4cdb2ded9fa2fA0143016/meu-quadro-do-trello)
+* **Quadro Trello do Projeto:** [Aceder ao Trello do Workshop] (https://trello.com/invite/b/6ab591016ab989f2b36140d6/ATTIeb66809feea1a43046d4cdb2ded9fa2fA0143016/n1-at4)
